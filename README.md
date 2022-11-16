@@ -1,2 +1,3 @@
-# public_presentations
-Public presentations.
+# Cyber Springboard - Public presentations
+
+These presentations are shared publically.
